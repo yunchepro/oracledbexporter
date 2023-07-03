@@ -1,0 +1,9 @@
+dsn: 172.16.104.58:1521/orcl
+host: 172.16.104.58
+port: 1521
+username: lazybug
+password: lazybug
+serviceName: orcl
+sid: orcl
+pdbs:
+  - orclpdb1
